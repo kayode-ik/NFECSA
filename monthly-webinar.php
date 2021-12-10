@@ -76,7 +76,7 @@
         </nav>
       </div>
       <nav class="navbar navbar-expand-md navbar-light">
-        <a class="navbar-brand" href="index.php"><img src="assets/images/logoNfecsa.png" alt="Multipurpose" /></a>
+        <a class="navbar-brand" href="index.php"><img style="width: 100px;" src="assets/images/NAFECS ALUMNI LOGO.png" alt="Multipurpose" /></a>
         <div class="group d-flex align-items-center">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -158,7 +158,7 @@
         <div class="col-md-8">
           <!-- Profile of speaker -->
           <div class="title">
-            <h4 class="title-blue">Profile Of undergraduate</h4>
+            <h4 class="title-blue">Profile Of November Winner</h4>
           </div>
           <div style="margin-top: -40px">
             <p>
@@ -183,7 +183,7 @@
           </div>
           <div style="margin-top: -40px">
             <p>
-              <a href="https://drive.google.com/file/d/1J9Z6ZwvWy6DuR8LN_MJ3qUEyAqCnV4d8/view?usp=sharing">Research Work</a>
+              <a href="https://drive.google.com/file/d/1J9Z6ZwvWy6DuR8LN_MJ3qUEyAqCnV4d8/view?usp=sharing">Research Work (pdf)</a>
             </p>
           </div>
           <!-- Powerpoint Presentation -->
@@ -207,47 +207,53 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp1.png" alt="First slide">
+                  <img class="d-block w-100" src="assets/Npp/npp1.png" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp2.png" alt="Second slide">
+                  <img class="d-block w-100" src="assets/Npp/npp2.png" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp3.png" alt="Third slide">
+                  <img class="d-block w-100" src="assets/Npp/npp3.png" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp4.png" alt="Fourth slide">
+                  <img class="d-block w-100" src="assets/Npp/npp4.png" alt="Fourth slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp5.png" alt="Fifth slide">
+                  <img class="d-block w-100" src="assets/Npp/npp5.png" alt="Fifth slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp6.png" alt="Sixth slide">
+                  <img class="d-block w-100" src="assets/Npp/npp6.png" alt="Sixth slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp7.png" alt="Seventh slide">
+                  <img class="d-block w-100" src="assets/Npp/npp7.png" alt="Seventh slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp8.png" alt="Eight slide">
+                  <img class="d-block w-100" src="assets/Npp/npp8.png" alt="Eight slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp9.png" alt="Nineth slide">
+                  <img class="d-block w-100" src="assets/Npp/npp9.png" alt="Nineth slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp10.png" alt="Tenth slide">
+                  <img class="d-block w-100" src="assets/Npp/npp10.png" alt="Tenth slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp11.png" alt="Eleventh slide">
+                  <img class="d-block w-100" src="assets/Npp/npp11.png" alt="Eleventh slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp12.png" alt="Twelve slide">
+                  <img class="d-block w-100" src="assets/Npp/npp12.png" alt="Twelve slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/NafecsPowerpoint/pp13.png" alt="Thirteen slide">
+                  <img class="d-block w-100" src="assets/Npp/npp13.png" alt="Thirteen slide">
                 </div>
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="assets/Npp/npp14.png" alt="Thirteen slide">
+                </div>
+
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -290,7 +296,7 @@
         <div class="col-md-8">
           <!-- Profile of speaker -->
           <div class="title">
-            <h4 class="title-blue">Profile Of undergraduate</h4>
+            <h4 class="title-blue">Profile Of December Winner</h4>
           </div>
           <div style="margin-top: -40px">
             <p>
@@ -315,7 +321,9 @@
           </div>
           <div style="margin-top: -40px">
             <p>
-              <a href="https://drive.google.com/file/d/1J9Z6ZwvWy6DuR8LN_MJ3qUEyAqCnV4d8/view?usp=sharing">Research Work</a>
+
+              <a href="https://drive.google.com/file/d/1grxS0clvY1_Z67YtUcNvQNwyI1AQp3we/view">Research Work (pdf)</a>
+
             </p>
           </div>
           <!-- Powerpoint Presentation -->
@@ -434,7 +442,7 @@
             <div class="single-widget contact-widget" data-aos="fade-up" data-aos-delay="0">
               <h6 class="widget-tiltle">&nbsp;</h6>
               <p>
-                By subscribing to our mailing list you will always be update
+                By subscribing to our mailing list you will always be updated
                 with the latest news from us.
               </p>
               <div class="media">

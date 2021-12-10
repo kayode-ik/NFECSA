@@ -931,3 +931,25 @@ span {
 .foot-note a.fh5-link {
   margin-left: 0;
 }
+
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+  .services .media img{
+    width: 335px ;
+  }
+ }
+ 
+ /* @media (min-width: 375px) { 
+  .services .media img{
+    width: 375px !important;
+  }
+ } */
+
+/* // Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { 
+  .services .media img{
+    width: 350px !important;
+  }
+ } */

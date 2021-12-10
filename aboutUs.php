@@ -25,6 +25,9 @@
   <link rel="stylesheet" href="assets/css/lightgallery.min.css" />
   <!-- Template Stylesheet -->
   <link rel="stylesheet" href="assets/css/style.css" />
+  
+  <link rel="stylesheet" href="assets/customStyle.css" />
+
   <!-- Responsive Stylesheet -->
   <link rel="stylesheet" href="assets/css/responsive.css" />
   <link rel="shortcut icon" href="assets/images/logoNfecsa.png" type="image/x-icon" />
@@ -73,7 +76,7 @@
         </nav>
       </div>
       <nav class="navbar navbar-expand-md navbar-light">
-        <a class="navbar-brand" href="index.php"><img src="assets/images/logoNfecsa.png" alt="Multipurpose" /></a>
+      <a  class="navbar-brand" href="index.php"><img style="width: 100px;" src="assets/images/NAFECS ALUMNI LOGO.png" alt="Multipurpose" /></a>
         <div class="group d-flex align-items-center">
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -138,12 +141,7 @@
             <!-- <h2 class="title-blue">NOVEMBER 2021</h2> -->
           </div>
           <p>
-            The debt profile of Nigeria has been a course of concern to many
-            Nigerians in recent times. In this webinar, the Director-General
-            of Nigeria Debt Management Office Ms. Patience Oniha presents the
-            true picture of Nigeria’s current debt profile and states the
-            implications thereof. She will allow enlighten the public on the
-            gains and procedure of investing in the Nigerian government bonds
+          NAFECS Alumni is a group of graduate Economics students who were members of the National Fellowship of Economics Christian Students during the pursuit of their BSc. Economics degree.
           </p>
           <p>
             We exist primarily to build a strong network of like-minded people
@@ -164,7 +162,7 @@
     <div class="container">
       <div class="col-sm-12 col-lg-12">
         <div class="media" data-aos="fade-up" data-aos-delay="200" data-aos-duration="400">
-        <img src="assets/images/visionMM Nfesca.jpeg" alt="" style="opacity: 0.5">
+        <img class="webinarNpp" src="assets/images/visionMM Nfesca.jpeg" alt="" style="opacity: 0.5">
         </div>
       </div>
     </div>
@@ -242,7 +240,7 @@
             <div class="single-widget contact-widget" data-aos="fade-up" data-aos-delay="0">
               <h6 class="widget-tiltle">&nbsp;</h6>
               <p>
-                By subscribing to our mailing list you will always be update
+                By subscribing to our mailing list you will always be updated
                 with the latest news from us.
               </p>
               <div class="media">
